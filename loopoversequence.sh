@@ -4,6 +4,6 @@
 for file in `ls naturalsequence*.txt`;
 do
 
-cat sample2.txt >> $file
+cat sample3.txt >> $file
 
 done
